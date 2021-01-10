@@ -1,4 +1,5 @@
 import './App.css';
+import Navbar from './Navbar';
 import reportWebVitals from './reportWebVitals';
 
 
@@ -6,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 function App() {
   return (
     <div>
-      <h1>hello</h1>
+      <Navbar />
     </div>
   );
 }
